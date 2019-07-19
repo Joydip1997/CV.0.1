@@ -1,0 +1,97 @@
+body
+{
+  font-family: 'Muli', sans-serif;
+  margin: 0;
+  text-align: center;
+
+
+}
+
+.top-container
+{
+  padding-top: 100px;
+  background-color: #e0ebe8;
+  position: relative;
+
+}
+
+.middle-container
+{
+  background-color: white;
+  position: relative;
+  margin-bottom: 30px;
+
+}
+
+
+
+.Hello
+{
+  font-size: 2em;
+}
+
+
+.skill-row
+{
+  font-family: 'Nunito', sans-serif;
+}
+
+.bottom-container
+{
+  padding-top: 100px;
+  background-color: white;
+  position: relative;
+}
+
+
+
+.head-line
+{
+  font-size: 900%;
+  font-family: 'Gochi Hand', cursive;
+  color: #45b29a;
+}
+
+
+
+.pro
+{
+  text-decoration: underline;
+}
+
+.top-heading
+{
+  font-size: 50px;
+  font-family: 'Rubik', sans-serif;
+  color: #45b29a;
+}
+
+.top-cloud
+{
+  position: absolute;
+  bottom: 400px;
+  right: 300px;
+}
+
+.end-cloud
+{
+  position: absolute;
+  bottom: 200px;
+  left: 250px;
+}
+
+.end-right-cloud
+{
+  position: absolute;
+  top: 800px;
+  right: 570px;
+  display: none;
+}
+
+hr
+{
+  border-color: #ff2e63;
+  border-style: dotted;
+  height: 0;
+  width: 30%;
+}
