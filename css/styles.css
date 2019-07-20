@@ -34,7 +34,7 @@ body {
 .web-dev {
   width: 25%;
   float: right;
-  margin-left:10px; 
+  margin-left:10px;
 }
 
 .Hello {
@@ -143,7 +143,7 @@ hr {
 
 .contact-messege
 {
-  font-size: 100%;
+  font-size: 80%;
   margin: 50px auto 100px auto;
 }
 
