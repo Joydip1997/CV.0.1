@@ -47,7 +47,7 @@ body {
 
 .bottom-container {
   padding-top: 100px;
-  background-color: #3fc1c9;
+  background-color: #C5DED7;
   position: relative;
   padding: 50px 0 20px;
 }
@@ -59,12 +59,14 @@ h3 {
 }
 
 a{
-  color: #a6e3e9;
+  color: #71c9ce;
   font-family: 'Nunito', sans-serif;
   margin: 30px 20px;
 }
 a:hover{
-  color: #08d9d6;
+  color: #1e2022;
+  opacity: 0.8;
+  transition: 0.9s;
 }
 
 .head-line {
